@@ -3,9 +3,14 @@ checkendpoint
 
 Check HTTP/TCP/UDP endpoints statically or dynamically
 
-Raw protocols
+Supported protocols
 - TCP
-- UDP
-
-Application protocols
 - HTTP/HTTPS
+
+Features
+- Interval check
+- Liveness check
+- HTTP header, response
+- Webhook for an event
+- Dashboard
+- RESTful APIs
