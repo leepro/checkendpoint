@@ -3,7 +3,7 @@ checkendpoint
 
 Check HTTP/TCP/UDP endpoints statically or dynamically
 
-Supported protocols
+Raw protocols
 - TCP
 - UDP
 
